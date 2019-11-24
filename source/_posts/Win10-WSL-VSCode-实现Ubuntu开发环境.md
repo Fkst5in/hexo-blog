@@ -1,11 +1,14 @@
 ---
 title: 'Win10 +  WSL + VSCode 实现Ubuntu开发环境 '
 categories:
-  - 默认
+  - [开发环境,WSL]
 index_img: '/posts/19918/store.jpg'
 abbrlink: 19918
 date: 2019-11-24 12:08:18
 tags:
+  - [WSL]
+  - [Linux]
+  - [Ubuntu]
 banner_img: './store_b.jpg'
 ---
 
